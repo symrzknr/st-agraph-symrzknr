@@ -44,7 +44,7 @@ class AgraphComponent extends StreamlitComponentBase<State> {
     };
 
     const onClickNode = function(nodeId: any) {
-        window.alert(`Clicked node ${nodeId}`);
+        window.alert(`Clicked hehehehhehe node ${nodeId}`);
     };
 
     const onDoubleClickNode = function(nodeId: any) {
