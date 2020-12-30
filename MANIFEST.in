@@ -1,1 +1,1 @@
-recursive-include streamlit_agraph/frontend/build *
+recursive-include st_agraph_symrzknr/frontend/build *
