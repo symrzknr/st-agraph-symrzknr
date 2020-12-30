@@ -10,13 +10,13 @@ with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
 
 setuptools.setup(
     name="st-agraph-symrzknr",
-    version="0.0.37",
+    version="0.0.38",
     author="symrzknr",
     author_email="mrevuelta.deca@gmail.com",
     description="Interactive Graph Vis for Streamlit, forked from original",
     long_description= long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/symrzknr/st-agraph-symr",
+    url="https://github.com/symrzknr/st-agraph-symrzknr",
     packages=setuptools.find_packages(),
     include_package_data=True,
     classifiers=[],

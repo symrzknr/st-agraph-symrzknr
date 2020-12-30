@@ -4,7 +4,7 @@ Based on [react-d3-graph](https://www.npmjs.com/package/react-d3-graph)
 
 ## Install
 
-`pip install st-agraph-symr`
+`pip install st-agraph-symrzknr`
 
 ## Use
 ```python
